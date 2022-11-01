@@ -1,0 +1,45 @@
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\bin\Debug\Vista.exe.config
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\bin\Debug\Vista.exe
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\bin\Debug\Vista.pdb
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\obj\Debug\Vista.exe
+C:\Users\Tomas Franchino\source\repos\Consola\Vista\obj\Debug\Vista.pdb
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Vista.exe.config
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Vista.exe
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Vista.pdb
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.exe
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.pdb
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Logica.dll
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Logica.pdb
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.csproj.CopyComplete
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Newtonsoft.Json.dll
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Newtonsoft.Json.xml
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\System.Data.SQLite.dll
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\Logica.dll.config
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\System.Data.SQLite.xml
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\EntityFramework.dll
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\EntityFramework.xml
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.Login.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.AltaSecretarios.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.MenuPrincipal.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.MenuSecretarios.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.MenuClientes.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.AltaClientes.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.AltaProfesores.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.MenuProfesores.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.MenuSuscripciones.resources
+C:\Programacion\TPTomasGimnacio\Consola\Vista\bin\Debug\databasegim.db
+C:\Programacion\TPTomasGimnacio\Consola\Vista\obj\Debug\Vista.AltaSuscripcion.resources

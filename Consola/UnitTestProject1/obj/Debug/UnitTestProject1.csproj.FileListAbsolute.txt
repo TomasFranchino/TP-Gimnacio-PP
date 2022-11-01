@@ -1,0 +1,44 @@
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Tomas Franchino\source\repos\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Programacion\TPTomasGimnacio\Consola\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

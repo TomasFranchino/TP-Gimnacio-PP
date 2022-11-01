@@ -1,0 +1,25 @@
+C:\Users\Tomas Franchino\source\repos\Consola\Logica\bin\Debug\Logica.dll
+C:\Users\Tomas Franchino\source\repos\Consola\Logica\bin\Debug\Logica.pdb
+C:\Users\Tomas Franchino\source\repos\Consola\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Tomas Franchino\source\repos\Consola\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Tomas Franchino\source\repos\Consola\Logica\obj\Debug\Logica.dll
+C:\Users\Tomas Franchino\source\repos\Consola\Logica\obj\Debug\Logica.pdb
+C:\Programacion\TPTomasGimnacio\Consola\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Programacion\TPTomasGimnacio\Consola\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Programacion\TPTomasGimnacio\Consola\Logica\obj\Debug\Logica.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\obj\Debug\Logica.pdb
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\Logica.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\Logica.pdb
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Programacion\TPTomasGimnacio\Consola\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\System.Data.SQLite.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\System.Data.SQLite.xml
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\Logica.dll.config
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\EntityFramework.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\EntityFramework.xml
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Programacion\TPTomasGimnacio\Consola\Logica\bin\Debug\databasegim.db

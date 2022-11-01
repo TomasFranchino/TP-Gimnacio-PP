@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{04FAA993-CD53-4FA7-91C1-4FC0744F41F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Vista\Vista.csproj", "{7029305C-3981-4887-B069-0B3F5A832788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{BAE4A92F-40E6-48FB-A6BE-A9195E7A85A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FAA993-CD53-4FA7-91C1-4FC0744F41F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FAA993-CD53-4FA7-91C1-4FC0744F41F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FAA993-CD53-4FA7-91C1-4FC0744F41F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FAA993-CD53-4FA7-91C1-4FC0744F41F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7029305C-3981-4887-B069-0B3F5A832788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7029305C-3981-4887-B069-0B3F5A832788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7029305C-3981-4887-B069-0B3F5A832788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7029305C-3981-4887-B069-0B3F5A832788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE4A92F-40E6-48FB-A6BE-A9195E7A85A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE4A92F-40E6-48FB-A6BE-A9195E7A85A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE4A92F-40E6-48FB-A6BE-A9195E7A85A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE4A92F-40E6-48FB-A6BE-A9195E7A85A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6590FFE-FE96-4E31-92E4-EEF37784D24B}
+	EndGlobalSection
+EndGlobal
